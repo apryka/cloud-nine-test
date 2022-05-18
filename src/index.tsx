@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {
-  BrowserRouter,
+  HashRouter,
   Routes,
   Route,
 } from "react-router-dom";
@@ -17,12 +17,12 @@ root.render(
   <React.StrictMode>
     <GlobalStyles />
     <DataContextProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<ListView />} />
           <Route path="/salon/:salonId" element={<Salon />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </DataContextProvider>
   </React.StrictMode>
 );
