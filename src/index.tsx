@@ -1,7 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
+import { DataContextProvider } from './context';
+import { Salon, ListView } from './pages';
+import GlobalStyles from "./globalStyles";
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
@@ -9,7 +15,15 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <App />
+    <GlobalStyles />
+    <DataContextProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<ListView />} />
+          <Route path="/salon/:salonId" element={<Salon />} />
+        </Routes>
+      </BrowserRouter>
+    </DataContextProvider>
   </React.StrictMode>
 );
 
