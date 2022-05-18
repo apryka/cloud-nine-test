@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/cloud-nine-test/static/js/main.5e70407a.js",
+    "static/js/787.eee68df5.chunk.js": "/cloud-nine-test/static/js/787.eee68df5.chunk.js",
+    "static/media/MillerBanner-Light.woff": "/cloud-nine-test/static/media/MillerBanner-Light.57be5129f2fe91c816a9.woff",
+    "static/media/MillerBanner-Light.woff2": "/cloud-nine-test/static/media/MillerBanner-Light.c3713338bbe01c08cd94.woff2",
+    "static/media/ic_website.svg": "/cloud-nine-test/static/media/ic_website.7c923dcd2385231bf5eda256f794669a.svg",
+    "static/media/icn_phone.svg": "/cloud-nine-test/static/media/icn_phone.9f5d013e98da2266de28f2a37de7c27a.svg",
+    "static/media/icn_heart.svg": "/cloud-nine-test/static/media/icn_heart.4828fbbd51f48e39d20d03db869e0715.svg",
+    "static/media/icn_address.svg": "/cloud-nine-test/static/media/icn_address.d97d104cc0d5e6a8bf64f0897a12396c.svg",
+    "index.html": "/cloud-nine-test/index.html",
+    "static/media/icn_time.svg": "/cloud-nine-test/static/media/icn_time.15b31d7654c463282a42f20e9a4abe83.svg",
+    "static/media/icn_star_empty_small.svg": "/cloud-nine-test/static/media/icn_star_empty_small.81a11e5d9ba6c5aaae3c610c8fbfa1fa.svg",
+    "static/media/icn_star_empty.svg": "/cloud-nine-test/static/media/icn_star_empty.7e749006f0d2fb36df49936be0651f53.svg",
+    "static/media/icn_settings.svg": "/cloud-nine-test/static/media/icn_settings.4874f2c1dd40031af45656b375af96e7.svg",
+    "static/media/icn_star_filled_small.svg": "/cloud-nine-test/static/media/icn_star_filled_small.47e9be6c3d08951ecde843e3b4fe16f9.svg",
+    "static/media/icn_star_filled.svg": "/cloud-nine-test/static/media/icn_star_filled.b6d8b133712c65d929b8942f0d6630d0.svg",
+    "static/media/icn_chevron_right_small.svg": "/cloud-nine-test/static/media/icn_chevron_right_small.148d3b04841d18bada759ba353302e35.svg",
+    "static/media/icn_chevron_right_down.svg": "/cloud-nine-test/static/media/icn_chevron_right_down.5f6cc69e320dd19c33ecea39dedef772.svg",
+    "static/media/icn_chevron_left.svg": "/cloud-nine-test/static/media/icn_chevron_left.f0bd16bb4de2e6a8664b79669fd4421d.svg",
+    "static/media/icn_chevron_left_white.svg": "/cloud-nine-test/static/media/icn_chevron_left_white.50a1228faf24818c0f813e04dc3a5d8b.svg",
+    "main.5e70407a.js.map": "/cloud-nine-test/static/js/main.5e70407a.js.map",
+    "787.eee68df5.chunk.js.map": "/cloud-nine-test/static/js/787.eee68df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e70407a.js"
+  ]
+}
