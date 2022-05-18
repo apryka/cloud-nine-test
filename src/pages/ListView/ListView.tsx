@@ -22,7 +22,7 @@ function ListView() {
     localStorage.setItem('maxValue', max.toString());
   }
 
-  const filteredList = useMemo(() => salon?.length ? salon.filter((s) => s.price >= min && s.price <= max) : [], [min, max]);
+  const filteredList = useMemo(() => salon?.length ? salon.filter((s) => s.price >= min && s.price <= max) : [], [min, max, salon]);
   return (
     <>
       <Navigation label='Hår' />
